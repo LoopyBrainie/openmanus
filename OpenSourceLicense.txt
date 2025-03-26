@@ -1,0 +1,13 @@
+### Third-Party Open Source Licenses
+
+#### 1. Project Name: OpenManus
+- **License**: MIT
+- **Copyright Notice**:Copyright(c)[2025][manna_and_poem]
+- **Source**: https://github.com/mannaandpoem/OpenManus/blob/main/LICENSE
+- **Usage**: [The base of the whole project]
+
+#### 2. Project Name: Composio
+- **Version**: [0.7.11]
+- **License**: Elastic License 2.0 (ELv2)
+- **Source**: https://github.com/ComposioHQ/composio/blob/master/LICENSE
+- **Usage**: [Providing the pip pakeages for MCP]
