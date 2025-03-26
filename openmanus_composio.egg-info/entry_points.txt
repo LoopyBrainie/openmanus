@@ -1,0 +1,2 @@
+[composio.plugins]
+openmanus = openmanus:OpenManusToolSet
