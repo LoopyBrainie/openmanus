@@ -10,7 +10,7 @@ Please follow these guidelines to build the environment for OpenManus and Compos
 
 > [composio/README.md at master · ComposioHQ/composio · GitHub](https://github.com/ComposioHQ/composio/blob/master/README.md)
 
-Notice: 
+Notice:
 1.It is simply built and cannot work properly.
 2. There might be some Chinese comments
 
